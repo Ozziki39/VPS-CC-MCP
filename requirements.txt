@@ -1,0 +1,5 @@
+# VPS-CC-MCP Dependencies
+# Minimal dependencies for VPS deployment
+
+# Input/output validation and JSON schemas
+pydantic>=2.0,<3.0
